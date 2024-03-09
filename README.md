@@ -2,7 +2,7 @@
 
 ### Hi there,my name is Walter Staeblein
 
-I'm a developer, photographer and entrepeneur from Rio de Janeiro, Brazil.
+I'm a developer, photographer, nature enthusiast and entrepeneur from Rio de Janeiro, Brazil.
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
