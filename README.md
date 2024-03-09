@@ -4,8 +4,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,html,css,vscode,github,git,angular,atom,ubuntu,htmx,jquery,linux,ps,raspberrypi,rollupjs,sqlite,vite,workers" />
-    <img src="https://skillicons.dev/icons?i=nodejs,npm,javascript,regex,express,mongodb,mysql,dotnet,electron,netlify,postman,redis,sublime,svg,ubuntu" /><br>
+    <img src="https://skillicons.dev/icons?i=svelte,html,css,vscode,github,git,angular,atom,ubuntu,htmx,jquery,linux,ps,raspberrypi,rollupjs,sqlite,vite,workers,nodejs,npm,javascript,regex,express,mongodb,mysql,dotnet,electron,netlify,postman,redis,sublime,svg,ubuntu" />
+<br>
 </div>
 <!--
 **wstaeblein/wstaeblein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
