@@ -5,7 +5,7 @@
 I'm a developer, photographer, nature enthusiast and entrepeneur from Rio de Janeiro, Brazil.
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">Tools of my trade</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=svelte,html,css,vscode,github,git,angular,atom,ubuntu,htmx,jquery,linux,ps,raspberrypi,rollupjs,sqlite,vite,workers,nodejs,npm,javascript,regex,express,mongodb,mysql,dotnet,electron,netlify,postman,redis,sublime,svg,ubuntu" />
@@ -15,7 +15,7 @@ I'm a developer, photographer, nature enthusiast and entrepeneur from Rio de Jan
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=wstaeblein&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
