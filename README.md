@@ -8,7 +8,7 @@ I'm a developer, photographer, nature enthusiast and entrepeneur from Rio de Jan
 <h2 align="center">Tools of my trade</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,html,css,vscode,github,git,angular,atom,ubuntu,htmx,jquery,linux,ps,raspberrypi,rollupjs,sqlite,vite,workers,nodejs,npm,javascript,regex,express,mongodb,mysql,dotnet,electron,netlify,postman,redis,sublime,svg,ubuntu" />
+    <img src="https://skillicons.dev/icons?theme=dark&i=svelte,html,css,vscode,github,git,angular,atom,ubuntu,htmx,jquery,linux,ps,raspberrypi,rollupjs,sqlite,vite,workers,nodejs,npm,javascript,regex,express,mongodb,mysql,dotnet,go,electron,netlify,postman,redis,sublime,svg,ubuntu" />
 <br>
 </div>
 
