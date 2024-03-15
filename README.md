@@ -1,14 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wstaeblein.wstaeblein" />
 
-### Hi there,my name is Walter Staeblein
+<img src="wsbkg.jpg" />
 
-I'm a developer, photographer, nature enthusiast and entrepeneur from Rio de Janeiro, Brazil.
+Developer, photographer, nature enthusiast and entrepeneur from Rio de Janeiro, Brazil.
 
 
 <h2 align="center">Tools of my trade</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?theme=dark&i=svelte,html,css,vscode,github,git,angular,atom,ubuntu,htmx,jquery,linux,ps,raspberrypi,rollupjs,sqlite,vite,workers,nodejs,npm,javascript,regex,express,mongodb,mysql,dotnet,go,electron,netlify,postman,redis,sublime,svg,ubuntu" />
+    <!-- https://skillicons.dev/icons?theme=dark&i=svelte,html,css,vscode,github,git,angular,atom,ubuntu,htmx,jquery,linux,ps,raspberrypi,rollupjs,sqlite,vite,workers,nodejs,npm,javascript,regex,express,mongodb,mysql,dotnet,go,electron,netlify,postman,redis,sublime,svg,ubuntu -->
+    <img src="skillicons.png" />
 <br>
 </div>
 
